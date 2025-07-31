@@ -136,7 +136,7 @@ An interactive heatmap plotted using 100,000+ GPS coordinates of accident locati
 | 🌎 Location         | Urban zones are most accident-prone |
 
 ---
-##LINKEDIN :
+## LINKEDIN :
 - https://www.linkedin.com/in/akash-v-9249b2296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## ✅ Conclusion
