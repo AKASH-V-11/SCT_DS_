@@ -136,8 +136,13 @@ An interactive heatmap plotted using 100,000+ GPS coordinates of accident locati
 | 🌎 Location         | Urban zones are most accident-prone |
 
 ---
-##LINKEDIN : https://www.linkedin.com/in/akash-v-9249b2296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+##LINKEDIN :
+- https://www.linkedin.com/in/akash-v-9249b2296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## ✅ Conclusion
 
 This analysis demonstrates that while weather does play a role in traffic accidents, **time of day and road features** are often more critical. Strategic improvements at high-risk locations like traffic signals and crossings, combined with behavioral awareness during peak hours, can significantly enhance road safety.
+
+## 🎥💻VIDEO :
+-
+https://www.linkedin.com/posts/akash-v-9249b2296_skillcrafttechnology-dataanalystintern-datascienceintern-activity-7355144442309238784-fMVS?utm_source=share&utm_medium=member_android&rcm=ACoAAEex2awBF83VC-fxl3uuiPf2qnkwSc8A5_0
